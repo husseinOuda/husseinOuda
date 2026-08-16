@@ -1,342 +1,95 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <!----===== Browser Icon Picture ===== -->
-    <link rel="icon" type="image/x-icon" href="assets/images/ico/favicon.ico">
-    <title>Resume | Hussein Ouda</title>
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
-      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
-    <!-- ===== Icon Library ===== -->
-    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
-    <meta name="description" content="This is the description">
-    <link rel="stylesheet" href="assets/styles.css" />
-  </head>
+<h1 align="center">Hi 👋, I'm Hussein Ouda</h1>
+<h3 align="center">Web developer specialized in front end and WordPress, & App Python.</h3>
 
-  <body>
-    <div class="resume">
-      <div class="base">
-        <div class="profile">
-          <div class="photo">
-            <img src="assets/images/husseinOuda-or.jpg" />
-            <!-- <i class="fa fa-rocket"></i> -->
-          </div>
-          <div class="info">
-            <h1 class="name">Hussein Ouda</h1>
-            <h2 class="job">Web Developer</h2>
-          </div>
-        </div>
-        <div class="about">
-          <h3>About Me</h3>
-          <p>I am Team Leader for
-            <a href="https://techmakers.tech/" target="_blanK">
-              <span>Techmakers,</span>
-            </a>and web developer, frontend web designer. WordPress specialist with experience in python development with web applications, desktop automation and GUI app.
-          </p>
-        </div>
-        <br>
-        <hr>
-        <br>
-        <div class="contact">
-          <h3>Contact Me</h3>
-          <div class="address">
-            <a href="https://goo.gl/maps/L9yKuoxyVT1Xq4139" title="Map" target="_blanK">
-              <i class="fa fa-map-marker"></i><span>Gaza, Palestine</span>
-            </a>
-          </div>
-          <div class="call">
-            <a href="https://wa.me/972597450414" title="WhatsApp" target="_blanK">
-              <i class="fa fa-whatsapp"></i><span>+972597450414</span>
-            </a>
-          </div>
-          <div class="skype">
-            <a href="https://join.skype.com/invite/iOiOGpuS8bvw" title="WhatsApp" target="_blanK">
-              <i class="fa fa-skype"></i><span>hussein.aoda</span>
-            </a>
-          </div>
-          <div class="email">
-            <a href="mailto:hello@husseinouda.me" title="E-mail" target="_blanK">
-              <i class="fa fa-envelope"></i><span>hello@husseinouda.me</span>
-            </a>
-          </div>
-          <div class="website">
-            <a href="https://husseinouda.me/" title="website" target="_blanK">
-              <i class="fa fa-home"></i><span>www.husseinouda.me</span>
-            </a>
-          </div>
-        </div>
-        <br>
-        <hr>
-        <br>
-        <div class="objective">
-          <h3>Career Objective</h3>
-          <p>
-            Practice and apply science And develop personal skills Improve the physical situation.
-          </p>
-        </div>
-        <br>
-        <hr>
-        <br>
-        <div class="certificates">
-          <h3>Awards and Certificates</h3>
-          <div class="address">
-            <a href="gallery.html" title="Certificates" target="_blanK">
-              <i class="fa fa-trophy"></i><span>Click here to view the certificates you have obtained</span>
-            </a>
-          </div>
-        </div>
-        <br>
-        <hr>
-        <br>
-        <div class="follow">
-          <h3>Follow Me</h3>
-          <div class="box">
-            <a href="https://www.facebook.com/hussein3uda" target="_blank"><i class="fa fa-facebook"></i></a>
-            <a href="https://twitter.com/7ussein_3uda" target="_blank"><i class="fa fa-twitter"></i></a>
-            <a href="https://soundcloud.com/hussein-aoda" target="_blank"><i class="fa fa-soundcloud"></i></a>
-            <a href="https://www.linkedin.com/in/hussein-ouda/" target="_blank"><i class="fa fa-linkedin"></i></a>
-            <a href="https://www.pinterest.com/husseinaoda/" target="_blank"><i class="fa fa-pinterest"></i></a>
-            <a href="https://www.youtube.com/@HusseinOuda" target="_blank"><i class="fa fa-youtube"></i></a>
-          </div>
-        </div>
-        <br>
-        <hr>
-        <br>
-        <div class="resume-dow">
-          <h3>Resume</h3>
-          <div class="interests-items">
-            <div class="art">
-              <a href="assets/images/Download/csv.rar" target="_blank" title="DOWNLOAD"><i class="fa fa-download"></i><span>Download</span></a>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="func">
-        <div class="work">
-          <h3><i class="fa fa-briefcase"></i>Experience</h3>
-          <ul>
-            <li>
-              <span>Team Leader</span>
-              <small><a href="https://techmakers.tech/" target="_blanK"><span>Techmakers</span></a></small>
-              <small>Jul. 2021 &raquo; Now</small></li>
-            <li>
-              <span>Web Developer</span>
-              <small><a href="https://techmakers.tech/" target="_blanK"><span>Techmakers</span></a></small>
-              <small>Sep. 2018 &raquo; Jun. 2021</small></li>
-            <li>
-              <span>Multimedia</span>
-              <small><a href="https://mg-mg.facebook.com/phnxdm/" target="_blanK"><span>Phoenix Digital Media</span></a></small>
-              <small>Feb. 2018 &raquo; May. 2018</small></li>
-          </ul>
-        </div>
-        <div class="edu">
-          <h3><i class="fa fa-graduation-cap"></i>Education</h3>
-          <ul>
-            <li>
-              <span>IT Bachelor</span>
-              <small><a href="https://up.edu.ps/" target="_blanK"><span>Palestine University</span></a></small>
-              <small>Sep. 2018 &raquo; Now</small></li>
-            <li>
-              <span>Multimedia Diploma</span>
-              <small><a href="https://up.edu.ps/" target="_blanK"><span>Palestine University</span></a></small>
-              <small>Sep. 2016 &raquo; Jun. 2018</small>
-            </li>
-            <li>
-              <span>High School</span>
-              <small>Hayel Abdel Hamid School</small>
-              <small>1999 &raquo; 2002</small>
-            </li>
-          </ul>
-        </div>
-        <div class="skills-soft">
-          <h3><i class="fa fa-pencil"></i>Tools</h3>
-          <div class="interests-items">
-            <div class="art"><i class='bx bxl-adobe bx-lg' title="Adobe"></i><span>Adobe</span></div>
-            <div class="art"><i class='bx bxs-component bx-lg' title="3D"></i><span>3D</span></div>
-            <div class="movies"><i class='bx bxl-unity bx-lg' title="Unity"></i><span>Unity</span></div>
-            <div class="music"><i class='bx bxl-html5 bx-lg' title="HTML5"></i><span>HTML5</span></div>
-            <div class="games"><i class='bx bxl-css3 bx-lg' title="CSS3"></i><span>CSS3</span></div>
-            <!--<div class="games"><i class='bx bxl-bootstrap bx-lg' title="BootStrap"></i><span>BootStrap</span></div>--><br>
-          </div>
-          <div class="interests-items">
-            <div class="art"><i class='bx bxl-wordpress bx-lg' title="WordPress"></i><span>WordPress</span></div>
-            <div class="art"><i class='bx bxs-data bx-lg' title="MySQL"></i><span>MySQL</span></div>
-            <div class="movies"><i class='bx bxl-git bx-lg' title="Git"></i><span>Git</span></div>
-            <div class="music"><i class='bx bxl-javascript bx-lg' title="JavaScript"></i><span>JavaScript</span></div>
-            <div class="games"><i class='bx bxl-python bx-lg' title="Python"></i><span>Python</span></div>
-            <!--<div class="games"><i class='bx bxl-django bx-lg' title="Django"></i><span>BootStrap</span></div>-->
-          </div>
-        </div>
-        <div class="skills-prog">
-          <h3><i class="fa fa-code"></i>My Skills</h3>
-          <ul>
-            <li><span>InDesign &raquo; 85%</span>
-              <div class="bar">
-                <span class="indesign"></span>
-              </div>
-            </li>
-            <li><span>Illustrator &raquo; 65%</span>
-              <div class="bar">
-                <span class="illustrator"></span>
-              </div>
-            </li>
-            <li><span>3Ds Max &raquo; 60%</span>
-              <div class="bar">
-                <span class="max"></span>
-              </div>
-            </li>
-            <li><span>HTML &raquo; 95%</span>
-              <div class="bar">
-                <span class="html"></span>
-              </div>
-            </li>
-            <li><span>CSS &raquo; 80%</span>
-              <div class="bar">
-                <span class="css"></span>
-              </div>
-            </li>
-            <li><span>WordPress &raquo; 90%</span>
-              <div class="bar">
-                <span class="wordpress"></span>
-              </div>
-            </li>
-            <li><span>JavaScript &raquo; 70%</span>
-              <div class="bar">
-                <span class="javascript"></span>
-              </div>
-            </li>
-            <li><span>Python &raquo; 75%</span>
-              <div class="bar">
-                <span class="python"></span>
-              </div>
-            </li>
-          </ul>
-        </div>
-        <div class="skills-soft">
-          <h3><i class="fa fa-language"></i>Languages</h3>
-          <ul>
-            <li data-percent="80">
-              <p><strong>Arabic </strong> &raquo; Professional &raquo;</span></p>
-              <svg viewbox="0 0 100 100">
-                <circle cx="50" cy="50" r="45" fill="#303f9f""></circle>
-                <path class="cbar" fill="none" stroke-linecap="round" stroke-width="5" stroke-dasharray="205" 
-                  d="M50 10
-                  a 40 40 0 0 1 0 80
-                  a 40 40 0 0 1 0 -80"/>
-                <text x="50" y="50" text-anchor="middle" dy="7" font-size="20">80%</text>
-              </svg>
-            </li>
-            <li data-percent="40">
-              <p><strong>English </strong> &raquo; Limited &raquo;</p>
-              <svg viewbox="0 0 100 100">
-                <circle cx="50" cy="50" r="45" fill="#303f9f"></circle>
-                <path class="cbar" fill="none" stroke-linecap="round" stroke-width="5" stroke-dasharray="150" stroke-dashoffset="40"
-                  d="M50 10
-                  a 40 40 0 0 1 0 80
-                  a 40 40 0 0 1 0 -80"/>
-                <text x="50" y="50" text-anchor="middle" dy="7" font-size="20">40%</text>
-            </li>
-          </ul>
-        </div>
-        <div class="courses">
-          <h3><i class="bx bxs-certification"></i>Training Courses</h3>
-          <div class="interests-items">
-            <table>
-              <tr>
-                <td><a href="assets/images/certificates/FullWordPressDeveloper-Feb.2022.pdf" target="_blanK">Full WordPress Developer</a></td>
-                <td><b>Feb. 2022</b></td>
-                <td><b>95 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/python-tkinterGUI-app-Nov.2021.jpg" target="_blanK">python tkinter GUI app</a></td>
-                <td><b>Nov. 2021</b></td>
-                <td><b>9.5 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/Fullstack-webDevelopment-Jul.2020.JPG" target="_blanK">Full stack web Development</a></td>
-                <td><b>Jul. 2020</b></td>
-                <td><b>45 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/DevelopmentFrontend-sites-Apr.2020.PNG" target="_blanK">Development the Frontend of sites</a></td>
-                <td><b>Apr. 2020</b></td>
-                <td><b>25 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/Building-websitesWordPress-Jan.2020.PNG" target="_blanK">Building websites using WordPress</a></td>
-                <td><b>Jan. 2020</b></td>
-                <td><b>4 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/WordPressDeveloper-Act.2019.PNG" target="_blanK">WordPress Developer</a></td>
-                <td><b>Act. 2019</b></td>
-                <td><b>3 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/WebDesign-Act.2019.JPG" target="_blanK">Web Design</a></td>
-                <td><b>Act. 2019</b></td>
-                <td><b>6 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/E-Marketing-Act.2019.PNG" target="_blanK">E-Marketing</a></td>
-                <td><b>Act. 2019</b></td>
-                <td><b>3 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/WordOffice-Sep.2019.PNG" target="_blanK">Word Office</a></td>
-                <td><b>Sep. 2019</b></td>
-                <td><b>2 hour</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/GraphicDesign-Aug.2019.PNG" target="_blanK">Graphic Design</a></td>
-                <td><b>Aug. 2019</b></td>
-                <td><b>6 weeks</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/Communication-Dec.2018.JPG" target="_blanK">Communication</a></td>
-                <td><b>Dec. 2018</b></td>
-                <td><b>12 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/Comprehensive-trial-exam-Nov.2018.JPG" target="_blanK">Comprehensive trial exam</a></td>
-                <td><b>Nov. 2018</b></td>
-                <td><b>3 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/SecretaryOffice-manager-Act.2018.JPG" target="_blanK">Secretary & Office Skills manager</a></td>
-                <td><b>Act. 2018</b></td>
-                <td><b>20 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/AdminComputerApps-Act.2018.JPG" target="_blanK">Admin Computer Apps (microsoft office)</a></td>
-                <td><b>Act. 2018</b></td>
-                <td><b>20 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/DigitalMarketing-Sep.2018.JPG" target="_blanK">Digital Marketing And Profit From The Internet</a></td>
-                <td><b>Sep. 2018</b></td>
-                <td><b>36 hours</b></td>
-              </tr>
-              <tr>
-                <td><a href="MultimediaDiploma.html" target="_blanK">Multimedia Diploma</a></td>
-                <td><b>Jun. 2018</b></td>
-                <td><b>2 years</b></td>
-              </tr>
-              <tr>
-                <td><a href="tot.html" target="_blanK">Professional Training Techniques</a></td>
-                <td><b>Act. 2011</b></td>
-                <td><b>1 month</b></td>
-              </tr>
-              <tr>
-                <td><a href="assets/images/certificates/Self-riving license-Jul.2011.jpg" target="_blanK">Self riving license-human development</a></td>
-                <td><b>Jul. 2011</b></td>
-                <td><b>6 hours</b></td>
-              </tr>
-            </table>
-          </div>
-        </div>
-      </div>
-    </div>
-    <script src="assets/script.js"></script>
-  </body>
-</html>
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=husseinouda&label=Profile%20views&color=0e75b6&style=flat" alt="husseinouda" /> 
+</p>
+
+<p align="left"> 
+    <img src="https://alraia.net/wp-content/uploads/2026/08/logoName.jpg" alt="husseinouda" style="width: 300px; height: auto;" />
+</p>
+
+<p align="left"> 
+    <a href="https://twitter.com/7ussein_3uda" target="blank">
+        <img src="https://img.shields.io/twitter/follow/7ussein_3uda?logo=twitter&style=for-the-badge" alt="7ussein_3uda" />
+    </a> 
+</p>
+
+- 🔭 I’m currently working at [Team Leader for Techmakers](https://techmakers.tech/)
+
+- 👨‍💻 I lost access to due caused war Gaza and destruction of my laptop [previous GitHub account](https://github.com/HusseinAoda2)
+
+- 💼 All of my projects are available at [https://husseinaoda2.github.io/portfolio/](https://husseinaoda2.github.io/portfolio/)
+
+- 📫 How to reach me **husseinaoda@gmail.com**
+
+- 📄 Know about my experiences [https://husseinaoda2.github.io/resume/](https://husseinaoda2.github.io/resume/)
+
+- ⚡ Fun fact **Palestinian from Gaza ✌️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://codepen.io/husseinaoda2" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="husseinaoda2" height="30" width="40" />
+    </a>
+    <a href="https://dev.to/hussein_ouda" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hussein_ouda" height="30" width="40" />
+    </a>
+    <a href="https://twitter.com/7ussein_3uda" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7ussein_3uda" height="30" width="40" />
+    </a>
+    <a href="https://linkedin.com/in/hussein-ouda/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-ouda/" height="30" width="40" />
+    </a>
+    <a href="https://fb.com/hussein3uda" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein3uda" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/hussein_3uda/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein_3uda/" height="30" width="40" />
+    </a>
+    <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpqwzfzevuf2rledrahii7w/videos" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpqwzfzevuf2rledrahii7w/videos" height="30" width="40" />
+    </a>
+    <a href="https://discord.gg/#2458" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2458" height="30" width="40" />
+    </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
+    </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    </a> 
+    <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
+    </a> 
+</p>
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=husseinouda&show_icons=true&locale=en&layout=compact" alt="husseinouda" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=husseinouda&show_icons=true&locale=en" alt="husseinouda" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husseinouda&" alt="husseinouda" /></p>
