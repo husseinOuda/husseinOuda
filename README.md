@@ -62,29 +62,8 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/husseinaoda2" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="husseinaoda2" height="30" width="40" />
-    </a>
-    <a href="https://dev.to/hussein_ouda" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hussein_ouda" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/7ussein_3uda" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7ussein_3uda" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/hussein-ouda/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussein-ouda/" height="30" width="40" />
-    </a>
-    <a href="https://fb.com/hussein3uda" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hussein3uda" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/hussein_3uda/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hussein_3uda/" height="30" width="40" />
-    </a>
-    <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpqwzfzevuf2rledrahii7w/videos" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpqwzfzevuf2rledrahii7w/videos" height="30" width="40" />
-    </a>
-    <a href="https://discord.gg/#2458" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2458" height="30" width="40" />
+    <a href="https://wa.me/972597450414" title="WhatsApp" target="_blanK">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="hussein_3uda/" height="30" width="40" /><span>+972597450414</span>
     </a>
 </p>
 <br>
