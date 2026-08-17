@@ -6,7 +6,7 @@
 </p>
 
 <p align="left"> 
-    <img src="https://alraia.net/wp-content/uploads/2026/08/logoName.jpg" alt="husseinouda" style="width: 300px; height: auto;" />
+    <img src="https://alraia.net/wp-content/uploads/2026/08/logoName-UltraPic.png" alt="husseinouda" style="float: right; width: 300px; height: auto;" />
 </p>
 
 <p align="left"> 
@@ -15,9 +15,9 @@
     </a> 
 </p>
 
-- 🔭 I’m currently working at [Team Leader for Techmakers](https://techmakers.tech/)
+- 🔭 I’m currently working at <a href="https://techmakers.tech/" target="_blank" rel="noopener noreferrer"> Team Leader for Techmakers </a>
 
-- 👨‍💻 I lost access to due caused war Gaza and destruction of my laptop [previous GitHub account](https://github.com/HusseinAoda2)
+- 👨‍💻 I lost access to due caused war Gaza and destruction of my laptop <a href="https://github.com/HusseinAoda2" target="_blank" rel="noopener noreferrer"> previous GitHub account </a>
 
 - 💼 All of my projects are available at [https://husseinaoda2.github.io/portfolio/](https://husseinaoda2.github.io/portfolio/)
 
